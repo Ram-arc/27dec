@@ -115,6 +115,11 @@
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="sign-up"/>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kCt-4j-2e4">
+                                <rect key="frame" x="179" y="727" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="test"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="5H5-ql-rAC"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
